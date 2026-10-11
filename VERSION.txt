@@ -1,0 +1,4 @@
+MATH'AS — Passage de la dizaine — Soustraction
+Version 5.1 — 11 octobre 2026
+Version optimisée pour GitHub Pages, images fixes locales.
+Aucun changement pédagogique par rapport à la V5.0 : mise à jour du numéro de version uniquement.
